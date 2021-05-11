@@ -45,7 +45,7 @@ body {
 .top_info {
   padding-top: 115px;
   flex-grow: 1;
-  background-image: url(/img/main_pic.png);
+  background-image: url(../img/main_pic.png);
   background-repeat: no-repeat;
   background-position: right 140px;
 }
@@ -279,7 +279,7 @@ body {
 }
 
 .top_contacts {
-  background-image: url(/img/contacts_bubbles.svg);
+  background-image: url(../img/contacts_bubbles.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
