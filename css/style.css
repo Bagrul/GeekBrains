@@ -123,6 +123,7 @@ body {
 .our_project {
   margin-top: 64px;
 }
+
 .project_header {
   margin-bottom: 32px;
 }
@@ -181,6 +182,7 @@ body {
   top: 32px;
   left: 32px;
 }
+
 .img_project_3 {
   font-size: 28px;
   line-height: 46px;
@@ -308,6 +310,7 @@ body {
   letter-spacing: 0.04em;
   color: rgba(255, 255, 255, 0.6);
 }
+
 .main_contacts {
   margin-top: 50px;
   display: flex;
@@ -348,6 +351,7 @@ body {
   opacity: 0.6;
   margin-left: 19px;
 }
+
 .contacts_phone {
   margin-left: 19px;
 }
