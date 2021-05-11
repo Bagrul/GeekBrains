@@ -412,6 +412,7 @@ body {
   color: #ffffff;
   text-transform: uppercase;
   padding: 23px 183px;
+  border: none;
 }
 
 .map {
